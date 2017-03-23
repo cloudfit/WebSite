@@ -1,1 +1,1 @@
-Change Git For Jenkins
+wp automation
