@@ -1,0 +1,11 @@
+<VirtualHost *:80>
+        ServerAdmin ghali.merzoug@gmail.com
+        ServerName mghali.com
+        ServerAlias www.mghali.com
+        DocumentRoot /var/www/html/mghali.com
+        ErrorLog /var/www/html/mghali.com/logs/error.log
+        <Directory /var/www/html/mghali.com/public_html>
+                Require all granted
+        </Directory>
+</VirtualHost>
+

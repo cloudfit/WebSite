@@ -1,0 +1,8 @@
+{
+  "run_list": [
+    "recipe[wp-stack::default]",
+    "recipe[wp-stack::wordpress]",
+    "recipe[wp-stack::php]"
+  
+  ]
+}
