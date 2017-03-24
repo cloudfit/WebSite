@@ -1,3 +1,8 @@
 Testing
 it is an other test
+<<<<<<< HEAD
 toto
+=======
+
+Testing 2
+>>>>>>> testing
